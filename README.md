@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Bharambe</h1>
 <h3 align="center">Pursuing opportunity, Software Engineer,(front end, Backend)</h3>
 
-<img align "right"alt="coding"width="400"src="![images](https://github.com/Vaish8989/Vaish8989/assets/131168550/c94cfd92-d580-4e4f-92b0-767acf137ac9)
-">
+<h3 img align "right"alt="coding"width="400"src="![images](https://github.com/Vaish8989/Vaish8989/assets/131168550/c94cfd92-d580-4e4f-92b0-767acf137ac9)
+"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish8989&label=Profile%20views&color=0e75b6&style=flat" alt="vaish8989" /> </p>
 
 - 🔭 I’m currently working on **Java Spring Boot Framework**
