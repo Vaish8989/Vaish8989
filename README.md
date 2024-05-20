@@ -2,6 +2,9 @@
 <h3 align="center">Pursuing opportunity, Software Engineer,(front end, Backend)</h3>
 
 
+![git hub gif](https://github.com/Vaish8989/Vaish8989/assets/131168550/277e4b75-899a-4598-af0d-ec66f569be75)
+
+
 ![images](https://github.com/Vaish8989/Vaish8989/assets/131168550/b81f51ae-aa9b-49fe-bca9-2e694033033a)
 
 
