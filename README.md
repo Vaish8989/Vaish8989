@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi-bharambe-b61303343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-bharambe-b61303343/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vaishnavibharam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnavibharam4" height="30" width="40" /></a>
-  <a href="https://vaish8989.github.io/Vaishnavi-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://vaish8989.github.io/Vaishnavi-portfolio/" height="30" width="40" /></a>
+  <a href="https://vaish8989.github.io/Vaishnavi-portfolio/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="https://vaish8989.github.io/Vaishnavi-portfolio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
