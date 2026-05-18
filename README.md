@@ -7,7 +7,9 @@ Full Stack Developer with 2 years of experience in React JS, Java, and Spring Bo
 Skilled in building scalable web applications, REST APIs, and responsive user interfaces.
 </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="girl coder"/>
+</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vaish8989&label=Profile%20views&color=0e75b6&style=flat" alt="vaish8989" />
@@ -15,7 +17,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 💼 Full Stack Developer with hands-on experience in frontend and backend development
 - 🔭 Currently working on Java Spring Boot Framework
@@ -105,7 +107,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 
 ---
 
-## Cloud, Storage & Deployment
+## ☁️ Cloud, Storage & Deployment
 
 - AWS
 - Cloudflare
@@ -114,7 +116,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 
 ---
 
-## Additional Tools
+## 🛠 Additional Tools
 
 - Canva
 - HandBrake (Video Compressor)
@@ -123,11 +125,22 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 
 # 🌟 Projects
 
-## 🔹 Babaji Ki Buti
-Full Stack Web Application developed using React JS and Spring Boot with PostgreSQL integration.
+## 🔹 Babaji Ki Buti — Full Stack Web Application
+
+- Developed complete frontend using React JS and backend using Java Spring Boot.
+- Built scalable REST APIs for product management, cart, orders, and user operations.
+- Integrated PostgreSQL database and cloud storage for product image management.
+- Designed responsive UI for better user experience across desktop and mobile devices.
+- Tested APIs using Postman and managed deployment workflow using GitHub.
+
+---
 
 ## 🔹 GovindaniIT Official Website
-Developed responsive web application features using React JS, JavaScript, HTML5, and CSS3 with modern UI design.
+
+- Developed responsive and modern user interface using React JS, JavaScript, HTML5, and CSS3.
+- Implemented reusable frontend components and optimized website responsiveness.
+- Worked on website performance improvements, animations, and UI enhancements.
+- Managed deployment and hosting workflow using Hostinger and Vercel.
 
 ---
 
