@@ -9,8 +9,8 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 
 <p align="center">
   <img 
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-    width="450"
+    src="./UTSEH078Aw.gif"
+    width="400"
     alt="Girl Coding"
   />
 </p>
