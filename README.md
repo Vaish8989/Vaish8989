@@ -8,7 +8,11 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 </p>
 
 <p align="center">
-<img width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="girl coder"/>
+  <img 
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+    width="500"
+    alt="girl coder"
+  />
 </p>
 
 <p align="left">
@@ -31,6 +35,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 # 🚀 Tech Stack
 
 ## Frontend
+
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -55,6 +60,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 ---
 
 ## Backend
+
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -73,6 +79,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 ---
 
 ## Database
+
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -84,6 +91,7 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 ---
 
 ## Tools & Platforms
+
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -102,8 +110,9 @@ Skilled in building scalable web applications, REST APIs, and responsive user in
 - Maven
 - IntelliJ IDEA
 - VS Code
-- Spring Initializer
-- GitHub (CI/CD Workflow)
+- Spring Initializr
+- Git
+- GitHub
 
 ---
 
