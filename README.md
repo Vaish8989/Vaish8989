@@ -1,40 +1,178 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Bharambe</h1>
 
-<h3 align="center">Pursuing opportunity, Software Engineer,(front end, Backend)</h3>
+<h3 align="center">Full Stack Developer | React JS | Java | Spring Boot</h3>
 
-
-![git hub gif](https://github.com/Vaish8989/Vaish8989/assets/131168550/277e4b75-899a-4598-af0d-ec66f569be75)
-
-
-![images](https://github.com/Vaish8989/Vaish8989/assets/131168550/b81f51ae-aa9b-49fe-bca9-2e694033033a)
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish8989&label=Profile%20views&color=0e75b6&style=flat" alt="vaish8989" /> </p>
-
-- 🔭 I’m currently working on **Java Spring Boot Framework**
-
-- 🌱 I’m currently learning **Java Spring Boot**
-
-- 👯 I’m looking to collaborate on **Software Development.**
-
-- 📫 How to reach me **vaishnavibharambe88@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vaishnavi-bharambe-b61303343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-bharambe-b61303343/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vaishnavibharam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnavibharam4" height="30" width="40" /></a>
-  <a href="https://vaish8989.github.io/Vaishnavi-portfolio/" target="blank"><img align="center" src="https://c8.alamy.com/comp/2XG5283/portfolio-icon-vector-logo-set-collection-for-web-app-ui-2XG5283.jpg" alt="https://vaish8989.github.io/Vaishnavi-portfolio/" height="30" width="40" /></a>
+<p align="center">
+Full Stack Developer with 2 years of experience in React JS, Java, and Spring Boot.<br>
+Skilled in building scalable web applications, REST APIs, and responsive user interfaces.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish8989&show_icons=true&locale=en&layout=compact" alt="vaish8989" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vaish8989&label=Profile%20views&color=0e75b6&style=flat" alt="vaish8989" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish8989&show_icons=true&locale=en" alt="vaish8989" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish8989&" alt="vaish8989" /></p>
+## 👩‍💻 About Me
 
+- 💼 Full Stack Developer with hands-on experience in frontend and backend development
+- 🔭 Currently working on Java Spring Boot Framework
+- 🌱 Exploring scalable backend architecture and cloud technologies
+- 💬 Ask me about React JS, Java, Spring Boot, REST APIs, PostgreSQL
+- 📫 Reach me at: **vaishnavibharambe88@gmail.com**
+- 📍 Pune, Maharashtra
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+
+</p>
+
+- JavaScript
+- React JS
+- HTML5
+- CSS3
+- Tailwind CSS
+- GSAP Animation
+
+---
+
+## Backend
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+
+</p>
+
+- Java
+- Core Java
+- Spring Boot
+- REST APIs
+- ORM
+- Hibernate
+
+---
+
+## Database
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+</p>
+
+- PostgreSQL
+
+---
+
+## Tools & Platforms
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+
+</p>
+
+- Postman
+- Maven
+- IntelliJ IDEA
+- VS Code
+- Spring Initializer
+- GitHub (CI/CD Workflow)
+
+---
+
+## Cloud, Storage & Deployment
+
+- AWS
+- Cloudflare
+- Hostinger
+- Vercel
+
+---
+
+## Additional Tools
+
+- Canva
+- HandBrake (Video Compressor)
+
+---
+
+# 🌟 Projects
+
+## 🔹 Babaji Ki Buti
+Full Stack Web Application developed using React JS and Spring Boot with PostgreSQL integration.
+
+## 🔹 GovindaniIT Official Website
+Developed responsive web application features using React JS, JavaScript, HTML5, and CSS3 with modern UI design.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vaishnavi-bharambe-b61303343/" target="blank">
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+
+</a>
+
+<a href="https://www.hackerrank.com/profile/vaishnavibharam4" target="blank">
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+
+</a>
+
+<a href="https://vaish8989.github.io/Vaishnavi-portfolio/" target="blank">
+
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="30" width="40" />
+
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish8989&show_icons=true&locale=en&layout=compact" alt="vaish8989" />
+
+</p>
+
+<p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish8989&show_icons=true&locale=en" alt="vaish8989" />
+
+</p>
+
+<p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish8989&" alt="vaish8989" />
+
+</p>
